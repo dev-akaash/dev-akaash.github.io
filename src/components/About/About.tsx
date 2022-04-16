@@ -1,6 +1,6 @@
 import { Container } from "./styles";
 
-import profileImage from "../../assets/profile-image.jpg"
+import profileImage from "../../assets/profile_image.jpg"
 import cssIcon from "../../assets/css-icon.svg";
 import htmlIcon from "../../assets/html-icon.svg";
 import jsIcon from "../../assets/js-icon.svg";
@@ -13,10 +13,10 @@ import ScrollAnimation from "react-animate-on-scroll";
 
 export function About(){
   return(
-    <Container id="sobre">
+    <Container id="about">
       <div className="about-text">
         <ScrollAnimation animateIn="fadeInLeft">
-          <h2>Sobre mim</h2>
+          <h2>about mim</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
           <p>Me chamo João Túlio, sou técnico em informática com uma grande paixão por programação. Sou apaixonado por entregar soluções que agregam na vida das pessoas e ao mesmo tempo me desafiam. Aprimorei minhas habilidades como desenvolvedor Front-End e Back-End</p>
@@ -81,7 +81,7 @@ export function About(){
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.6 * 1000}>
-          <img src="https://portfolio-joaotulio.vercel.app/img/foto_antiga.jpg" alt="Imagem de perfil" />
+          <img src={profileImage} alt="Profile Image" />
         </ScrollAnimation>
       </div>
     </Container>
