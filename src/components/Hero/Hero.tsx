@@ -28,7 +28,7 @@ export function Hero(){
       </div>
       <div className="hero-image">
         <ScrollAnimation animateIn="fadeInRight" delay={1*1000}>
-          <img src={IllustrationNew} alt="Ilustração"/>
+          <img src={IllustrationNew} alt="Illustration"/>
         </ScrollAnimation>
       </div>
     </Container>
