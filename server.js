@@ -1,9 +1,8 @@
 const express = require('express');
-
 const app = express();
 const http = require('http');
 const server = http.createServer(app);
-const path = require('path')
+const path = require('path');
 
 
 // Have Node serve the files for our built React app
@@ -20,6 +19,5 @@ app.get("*", (req, res) => {
 
 
 server.listen(3001,()=>{
-    console.log(`server run  `);
-
-})
+    console.log(`server run`);
+});
