@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/dev-akaash.github.io/static/css/main.43c86f1c.css",
+    "main.js": "/dev-akaash.github.io/static/js/main.0e588286.js",
+    "static/media/AkaashDev_Resume.pdf": "/dev-akaash.github.io/static/media/AkaashDev_Resume.e1c51980efaff0f66695.pdf",
+    "static/media/profile_image.jpg": "/dev-akaash.github.io/static/media/profile_image.0f98346fd9c5c00e6c79.jpg",
+    "static/media/app-2.svg": "/dev-akaash.github.io/static/media/app-2.74fc4174d9dcf49b5502b75f2a5413e0.svg",
+    "static/media/github.png": "/dev-akaash.github.io/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/instagram.png": "/dev-akaash.github.io/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/linkedin.png": "/dev-akaash.github.io/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/sass-icon.svg": "/dev-akaash.github.io/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/mysql-icon.svg": "/dev-akaash.github.io/static/media/mysql-icon.e5a509a5d3ca7443ae6ccf379181381d.svg",
+    "static/media/node-icon.svg": "/dev-akaash.github.io/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/dev-akaash.github.io/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/flutter.svg": "/dev-akaash.github.io/static/media/flutter.96c7f4bf83f9e8151d84af2742458526.svg",
+    "static/media/bootstrap-icon.svg": "/dev-akaash.github.io/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/dev-akaash.github.io/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/dev-akaash.github.io/index.html",
+    "static/media/phone-icon.svg": "/dev-akaash.github.io/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/email-icon.svg": "/dev-akaash.github.io/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/html-icon.svg": "/dev-akaash.github.io/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/css-icon.svg": "/dev-akaash.github.io/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/vscode-icon.svg": "/dev-akaash.github.io/static/media/vscode-icon.3001bc63a45d488b7d2c332e4a2059ad.svg",
+    "static/media/js-icon.svg": "/dev-akaash.github.io/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/vue-icon.svg": "/dev-akaash.github.io/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
+    "static/media/github-icon.svg": "/dev-akaash.github.io/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
+    "static/media/external-link-icon.svg": "/dev-akaash.github.io/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
+    "main.43c86f1c.css.map": "/dev-akaash.github.io/static/css/main.43c86f1c.css.map",
+    "main.0e588286.js.map": "/dev-akaash.github.io/static/js/main.0e588286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43c86f1c.css",
+    "static/js/main.0e588286.js"
+  ]
+}
