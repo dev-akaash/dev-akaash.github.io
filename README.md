@@ -14,7 +14,7 @@ This is my website to introduce myself, here I put my skills, portfolio, and con
 
 4. Responsive Design: The application is designed to be fully responsive and works well on desktops, tablets, and mobile devices.
 
-# Original Design by João Túlio
+# Original Design by [João Túlio](https://github.com/joaotuliojt)
 
 ## Technologies used:
 - React
