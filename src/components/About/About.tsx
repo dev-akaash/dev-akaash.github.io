@@ -1,15 +1,15 @@
 import { Container } from "./styles";
 
-import profileImage from "../../assets/profile_image.jpg";
+import ScrollAnimation from "react-animate-on-scroll";
 import cssIcon from "../../assets/css-icon.svg";
-import htmlIcon from "../../assets/html-icon.svg";
-import jsIcon from "../../assets/js-icon.svg";
 import flutterIcon from "../../assets/flutter.svg";
+import htmlIcon from "../../assets/html-icon.svg";
 import ionicIcon from "../../assets/ionic.png";
+import jsIcon from "../../assets/js-icon.svg";
+import profileImage from "../../assets/profile_image.jpg";
 import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
 import vueIcon from "../../assets/vue-icon.svg";
-import ScrollAnimation from "react-animate-on-scroll";
 
 
 export function About(){
@@ -88,7 +88,7 @@ export function About(){
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.6 * 1000}>
-          <img src={profileImage} alt="Profile Image" />
+          <img src={profileImage} alt="Profile" />
         </ScrollAnimation>
       </div>
     </Container>
