@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project_folio/static/css/main.43c86f1c.css",
-    "main.js": "/project_folio/static/js/main.a352454d.js",
+    "main.js": "/project_folio/static/js/main.da47ffc1.js",
     "static/media/AkaashDev_Resume.pdf": "/project_folio/static/media/AkaashDev_Resume.e1c51980efaff0f66695.pdf",
     "static/media/profile_image.jpg": "/project_folio/static/media/profile_image.0f98346fd9c5c00e6c79.jpg",
     "static/media/app-2.svg": "/project_folio/static/media/app-2.74fc4174d9dcf49b5502b75f2a5413e0.svg",
@@ -15,21 +15,21 @@
     "static/media/flutter.svg": "/project_folio/static/media/flutter.96c7f4bf83f9e8151d84af2742458526.svg",
     "static/media/bootstrap-icon.svg": "/project_folio/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
     "static/media/react-icon.svg": "/project_folio/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
-    "static/media/phone-icon.svg": "/project_folio/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
     "index.html": "/project_folio/index.html",
-    "static/media/email-icon.svg": "/project_folio/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/logo-whatsapp.svg": "/project_folio/static/media/logo-whatsapp.4a5048df16fe73484f25a5e89de6e5ec.svg",
     "static/media/html-icon.svg": "/project_folio/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
     "static/media/css-icon.svg": "/project_folio/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
     "static/media/vscode-icon.svg": "/project_folio/static/media/vscode-icon.3001bc63a45d488b7d2c332e4a2059ad.svg",
     "static/media/js-icon.svg": "/project_folio/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "static/media/vue-icon.svg": "/project_folio/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "static/media/github-icon.svg": "/project_folio/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
+    "static/media/email-icon.svg": "/project_folio/static/media/email-icon.413850824ff29c4ae80df43a973302dc.svg",
     "static/media/external-link-icon.svg": "/project_folio/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
     "main.43c86f1c.css.map": "/project_folio/static/css/main.43c86f1c.css.map",
-    "main.a352454d.js.map": "/project_folio/static/js/main.a352454d.js.map"
+    "main.da47ffc1.js.map": "/project_folio/static/js/main.da47ffc1.js.map"
   },
   "entrypoints": [
     "static/css/main.43c86f1c.css",
-    "static/js/main.a352454d.js"
+    "static/js/main.da47ffc1.js"
   ]
 }
