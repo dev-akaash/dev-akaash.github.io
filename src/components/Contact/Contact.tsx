@@ -1,7 +1,7 @@
-import { Container } from "./styles";
 import emailIcon from "../../assets/email-icon.svg";
-import phoneIcon from "../../assets/phone-icon.svg"
+import whatsappIcon from "../../assets/logo-whatsapp.svg";
 import { Form } from "../Form/Form";
+import { Container } from "./styles";
 
 
 export function Contact(){
@@ -18,8 +18,8 @@ export function Contact(){
           <a href="mailto:akaashdev.5@hotmail.com">akaashdev.5@hotmail.com</a>
         </div>
         <div>
-          <img src={phoneIcon} alt="Email" />
-          <a href="tel:+919868940480">+91 98689 40480</a>
+          <img src={whatsappIcon} alt="WhatsApp" />
+          <a href="https://wa.me/9868940480">+91 98### ####0</a>
         </div>  
       </div>
       <Form></Form>
