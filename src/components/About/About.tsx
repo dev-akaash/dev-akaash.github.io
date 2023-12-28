@@ -20,16 +20,16 @@ export function About(){
           <h2>About Me</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
-          <p>Hi, I'm Akaash Dev and I'm a programmer by race. I'm passionate about technology and development. I'm a self learner and I have been working as a mobile app developer for about 3 years now. Creating hybrid mobile and web apps is what I do best.</p>
+          <p>Hi, I'm Akaash Dev, and I'm a programmer by profession. I'm passionate about technology and development. As a self-learner, I've been working as a mobile app developer for more than 5 years now. Creating hybrid mobile and web apps is what I do best.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000} style={{marginTop: "2rem", marginBottom: "2rem"}}>
 
-          <p>I develop websites and applications using HTML, CSS, and JavaScript/Typescript. I am familiar with developing layouts that is provided to me or I reference it from multiple apps and websites. I'm always improving myself with each project I get my hands on.</p>
+          <p>I develop websites and applications using HTML, CSS, and JavaScript/TypeScript. I am proficient in creating layouts either provided to me or referenced from various apps and websites. I continuously enhance my skills with each project I undertake.</p>
         </ScrollAnimation>
-        <ScrollAnimation animateIn="fadeInLeft" delay={0.6 * 1000}>
+{/*         <ScrollAnimation animateIn="fadeInLeft" delay={0.6 * 1000}>
 
           <p>I'm lazy but dedicated and work hard to pursue my dreams and achieve what I think is the best either its me or my projects.</p>
-        </ScrollAnimation>
+        </ScrollAnimation> */}
 
         <ScrollAnimation animateIn="fadeInLeft" delay={0.7 * 1000}>
           <h3>My main skills are:</h3>
